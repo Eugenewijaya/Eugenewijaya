@@ -26,14 +26,6 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 
-### Skill Proficiency
-![HTML5](https://progress-bar.dev/100/?title=HTML5)
-![JavaScript](https://progress-bar.dev/90/?title=JavaScript)
-![Google Sites](https://progress-bar.dev/80/?title=Google%20Sites)
-![MySQL](https://progress-bar.dev/75/?title=MySQL)
-![Google Cloud](https://progress-bar.dev/70/?title=Google%20Cloud)
-![Canva](https://progress-bar.dev/85/?title=Canva)
-![CapCut](https://progress-bar.dev/80/?title=CapCut)
 
 ## 📬 Connect With Me
 
