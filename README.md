@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eugene Wijaya
 
-🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Music Lover 🧑‍💻 Enthusiast Coder
+🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Songwriter
 
 ## 🚀 What I'm Passionate About
 - Exploring new technologies and trends
@@ -28,11 +28,9 @@
 
 ## 📬 Connect With Me
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>](https://www.instagram.com/eugenewijaya)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/eugene-wijaya)  
-
-## 🎧 Check Out My Spotify Artist Profile
-[Spotify - Evid Huang](https://open.spotify.com/intl-id/artist/4h9snKNuGL2zocnbhmecfq?si=VkFwWXRuQzyVqbQCd_hgUw)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>](https://www.instagram.com/eugenewijaya) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/eugene-wijaya) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="40"/>](https://open.spotify.com/intl-id/artist/4h9snKNuGL2zocnbhmecfq?si=VkFwWXRuQzyVqbQCd_hgUw)
 
 ## 🌟 Pronouns
 - He/Him
