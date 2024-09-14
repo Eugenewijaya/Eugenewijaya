@@ -16,8 +16,8 @@
 - Creative data analysis and visualization
 
 ## 📬 Connect With Me
-- Instagram: [@eugenewijaya](https://www.instagram.com/eugenewijaya)
-- LinkedIn: [Eugene Wijaya](https://www.linkedin.com/in/eugene-wijaya)
+- Instagram: [@epidoey](https://www.instagram.com/epidoey)
+- LinkedIn: [Evid Wijaya](https://www.linkedin.com/in/eugene-wijaya)
 
 
 ## 🌟 Pronouns
