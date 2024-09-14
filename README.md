@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eugene Wijaya
 
-🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Music Lover 🧑‍💻 Enthusiast Coder
+🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Song Writer 🧑‍💻 Enthusiast Coder
 
 ## 🚀 What I'm Passionate About
 - Exploring new technologies and trends
