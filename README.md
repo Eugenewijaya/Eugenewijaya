@@ -27,11 +27,12 @@
 ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 
 ## 📬 Connect With Me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eugenewijaya)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-wijaya)
+
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/eugenewijaya)  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/eugene-wijaya)  
 
 ## 🎧 Check Out My Spotify Artist Profile
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4h9snKNuGL2zocnbhmecfq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[Spotify - Evid Huang](https://open.spotify.com/intl-id/artist/4h9snKNuGL2zocnbhmecfq?si=VkFwWXRuQzyVqbQCd_hgUw)
 
 ## 🌟 Pronouns
 - He/Him
