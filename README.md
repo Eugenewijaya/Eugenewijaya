@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eugene Wijaya
 
-🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Song Writer 🧑‍💻 Enthusiast Coder
+🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Music Lover 🧑‍💻 Enthusiast Coder
 
 ## 🚀 What I'm Passionate About
 - Exploring new technologies and trends
@@ -29,7 +29,9 @@
 ## 📬 Connect With Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eugenewijaya)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-wijaya)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0yN9XYHDeXdrOGEGdINjuc?si=12345)
+
+## 🎧 Check Out My Spotify Artist Profile
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4h9snKNuGL2zocnbhmecfq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## 🌟 Pronouns
 - He/Him
