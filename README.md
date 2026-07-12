@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Eugene Wijaya
 
-🎓 Student ✨ Buddhist 📸 Photography Enthusiast 🧠 Philosopher 🎶 Songwriter
-
 ## 🚀 What I'm Passionate About
 - Exploring new technologies and trends
 - Creating impactful web and cloud solutions
