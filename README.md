@@ -1,29 +1,66 @@
-# 👋 Hello, I'm Eugene Wijaya
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Eugene+Wijaya;🚀+Web+%26+Cloud+Enthusiast;📊+Data-Driven+Decision+Maker" alt="Typing SVG" />
+</div>
 
-## 🚀 What I'm Passionate About
-- Exploring new technologies and trends
-- Creating impactful web and cloud solutions
-- Leveraging data to drive decisions
+<p align="center">
+  <a href="https://www.linkedin.com/in/evid-wijaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/eugenewijaya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://open.spotify.com/intl-id/artist/4h9snKNuGL2zocnbhmecfq?si=VkFwWXRuQzyVqbQCd_hgUw"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+</p>
 
-## 🧠 Currently Learning
-- Advanced coding techniques and best practices
-- The latest advancements in cloud computing
-- Effective strategies for personal and professional growth
+<div align="center">
+  <!-- Animasi GIF Developer -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Coding Animation" />
+</div>
 
+---
 
-### GitHub Statistics
-<p align="left">
-  <a href="https://github.com/Eugenewijaya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eugenewijaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eugenewijaya&layout=compact&langs_count=8&theme=algolia"/>
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
+
+I am a passionate tech enthusiast dedicated to exploring new technologies and trends. I thrive on creating impactful web and cloud solutions while leveraging data to drive strategic decisions.
+
+- 🔭 **Focus:** Creating impactful web and cloud solutions.
+- 🌱 **Currently Learning:** Advanced coding techniques, cloud computing innovations, and professional growth strategies.
+- 💡 **Superpower:** Leveraging data to drive decisions and optimize systems.
+- 📫 **How to reach me:** Feel free to connect via my social links above!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,aws,docker,git" alt="My Tech Stack" />
   </a>
 </p>
 
+---
 
-## 📬 Connect With Me
+### 🐍 GitHub Contribution Snake (Animasi Utama)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>](https://www.instagram.com/eugenewijaya) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/evid-wijaya) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="40"/>](https://open.spotify.com/intl-id/artist/4h9snKNuGL2zocnbhmecfq?si=VkFwWXRuQzyVqbQCd_hgUw)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eugenewijaya/Eugenewijaya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eugenewijaya/Eugenewijaya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eugenewijaya/Eugenewijaya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Eugenewijaya">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eugenewijaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Eugenewijaya">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eugenewijaya&layout=compact&langs_count=8&theme=algolia&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eugenewijaya&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</div>
