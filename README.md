@@ -30,13 +30,20 @@ I am a passionate tech enthusiast dedicated to exploring new technologies and tr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,aws,docker,git" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,tailwind,vite,nodejs,postgres,git,github,vercel,md" alt="My Tech Stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Stitch_by_Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Stitch by Google" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake (Animasi Utama)
+### 🐍 GitHub Contribution Snake
 
 <div align="center">
   <picture>
@@ -64,3 +71,9 @@ I am a passionate tech enthusiast dedicated to exploring new technologies and tr
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eugenewijaya&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br>
+
+<p align="center">
+  <i>"Continuously learning, building, and growing."</i>
+</p>
