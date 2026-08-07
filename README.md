@@ -30,7 +30,7 @@ I am a passionate tech enthusiast dedicated to exploring new technologies and tr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,tailwind,vite,nodejs,postgres,git,github,vercel,md" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,tailwind,vite,nodejs,postgres,git,github,vercel" alt="My Tech Stack" />
   </a>
 </p>
 
