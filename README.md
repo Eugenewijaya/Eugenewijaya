@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0d2FucDU5a3F5Nmc5Zm0wOXFtMHZ2aW5yNDgxcTh4OGJnNmU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" alt="banner gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0d2FucDU5a3F5Nmc5Zm0wOXFtMHZ2aW5yNDgxcTh4OGJnNmU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="480" alt="banner gif" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Eugene+Wijaya;🚀+Web+%26+Cloud+Enthusiast;📊+Data-Driven+Decision+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Eugene+Wijaya;%F0%9F%9A%80+Web+%26+Cloud+Enthusiast;%F0%9F%93%8A+Data-Driven+Decision+Maker" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,11 +11,6 @@
   <a href="https://www.instagram.com/eugenewijaya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://open.spotify.com/intl-id/artist/4h9snKNuGL2zocnbhmecfq?si=VkFwWXRuQzyVqbQCd_hgUw"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </p>
-
-<div align="center">
-  <!-- Animasi GIF Intro -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzdyNmpiNTFucXIzMmtnNnNsZzhtbXBjMnQxMmFhNGVzdDZ1b2lxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/muOIT8SLYn6GBfEcf8/giphy.gif" width="220" alt="Intro Animation" />
-</div>
 
 ---
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
